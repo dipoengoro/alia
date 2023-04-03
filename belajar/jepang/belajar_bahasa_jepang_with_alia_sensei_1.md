@@ -1,18 +1,3 @@
-Sehat/Semangat = Genki  
-Sehat (pikiran) = Genki  
-Sehat (badan)/healthy = Kenkou
-
---- 
-
-Kagak paham (kasual) = Wakaranai  
-Kagak paham (sopan) = Wakarimasen  
-Ngerti gak tadi (sopan) = Wakarimashita ka  
-Ngerti gak tadi (kasual) = Wakatta  
-Nggak (kasual) = Wakarantta  
-Nggak (sopan) = Wakarimasen deshita
-
-> Basisnya dari Wakaru  
-> Wakaru + nai (nggak) =  
 > (kasual) Wakaranai  
 > (sopan) Wakarimasen
 
